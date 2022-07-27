@@ -1,4 +1,5 @@
 # Digite um valor e mostre seu Antecessor e Sucessor
+# teste de alteração
 
 valor = int(input("Digite um valor "))
 print(f'O Valor Digitado foi {valor} \n'
